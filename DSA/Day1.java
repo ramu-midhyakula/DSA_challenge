@@ -1,3 +1,4 @@
+package DSA;
 //342. Power of Four
 class Solution {
      public boolean isPowerOfFour(int num) {
